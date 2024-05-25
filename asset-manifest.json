@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/WarGame/static/css/main.809dd837.css",
+    "main.js": "/WarGame/static/js/main.2e3662ef.js",
+    "static/js/453.ec4ad8fa.chunk.js": "/WarGame/static/js/453.ec4ad8fa.chunk.js",
+    "static/media/logo.svg": "/WarGame/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/WarGame/index.html",
+    "main.809dd837.css.map": "/WarGame/static/css/main.809dd837.css.map",
+    "main.2e3662ef.js.map": "/WarGame/static/js/main.2e3662ef.js.map",
+    "453.ec4ad8fa.chunk.js.map": "/WarGame/static/js/453.ec4ad8fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.809dd837.css",
+    "static/js/main.2e3662ef.js"
+  ]
+}
