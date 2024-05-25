@@ -77,7 +77,7 @@ class Player {
 export default App;
 
 
-function findIndex(cell){
-  let td= document.createElement('td');
-  td.prop 
-}
+// function findIndex(cell){
+//   let td= document.createElement('td');
+//   td.prop 
+// }
